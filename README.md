@@ -1,5 +1,5 @@
 <p align="center">
-# ZeroBug.Team
+## ZeroBug.Team
 </p>
 
 <p align="center">
