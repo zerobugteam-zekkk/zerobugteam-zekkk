@@ -1,20 +1,26 @@
-# zerobugteam-zekkk
+# ZeroBug-Team
 
-# MY STAT :
+## 📊 Statistik GitHub
 
-<div>
-  <!-- User Stats -->
-  <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/master/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/main/profile-summary-card-output/github/0-profile-details.svg" />
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-top: 10px;">
-  <!-- Top Languages (Repos per Language & Most Commit Language) -->
-  <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/master/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Language">
-  <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/master/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language">
-</div>
-
-<div style="display: flex; justify-content: space-between; margin-top: 10px;">
-  <!-- Stats & Productive Time -->
-  <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/master/profile-summary-card-output/2077/3-stats.svg" alt="Stats">
-  <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/master/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/main/profile-summary-card-output/github/3-stats.svg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/main/profile-summary-card-output/github/4-productive-time.svg" />
+    </td>
+  </tr>
+</table>
