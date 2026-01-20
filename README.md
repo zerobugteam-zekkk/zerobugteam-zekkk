@@ -1,6 +1,6 @@
-<p align="center">
-## ZeroBug.Team
-</p>
+<h1 align="center">
+ZeroBug.Team
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zerobugteam-zekkk/zerobugteam-zekkk/main/profile-summary-card-output/ocean_dark/0-profile-details.svg" width="800" />
